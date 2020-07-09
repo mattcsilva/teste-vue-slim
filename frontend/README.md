@@ -1,4 +1,4 @@
-# teste-vue-slim
+# VueJS
 
 ## Project setup
 ```
